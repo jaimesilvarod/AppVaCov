@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Login y Sign Up</string>
+    <string name="titulo">Registro Nuevo Usuario</string>
+    <string name="label_nombre">Nombre completo</string>
+    <string name="label_usuario">Usuario</string>
+    <string name="label_email">Correo electrónico</string>
+    <string name="label_password">Contraseña</string>
+    <string name="label_confirmacion">Confirme Password</string>
+    <string name="label_comorbilidades">Comorbilidades</string>
+    <string name="label_fechaNacimiento">Fecha de nacimiento</stringname>
+    <string-array name="comorbilidades">
+        <item>Enfermedad cardiovascular</item>
+        <item>Enfermedad renal crónica</item>
+        <item>Enfermedad respiratoria crónica</item>
+        <item>Enfermedad hepatica crónica</item>
+        <item>Diabetes</item>
+        <item>Cánceres con inmunosupresión directa</item>
+        <item>Cánceres con inmunosupresión directa, pero con posible inmunosupresión causada por el tratamiento</item>
+        <item>VIH/SIDA</item>
+        <item>Tuberculosis (activa)</item>
+        <item>Trastornos neurológicos crónicos</item>
+        <item>Trastornos de células falciformes</item>
+        <item>Consumo de tabaco fumado</item>
+        <item>Obesidad severa (IMC mayor de 40)</item>
+        <item>Hipertensión</item>
+    </string-array>
+    <string name="label_profesiones">Profesiones</string>
+    <string-array name="profesiones">
+        <item>Médico(a)</item>
+        <item>Ingeniero(a)</item>
+        <item>Profesor(a)</item>
+        <item>Músico(a)</item>
+        <item>Estudiante</item>
+    </string-array>
+</resources>
